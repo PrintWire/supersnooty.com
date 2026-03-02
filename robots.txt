@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://supersnooty.com/sitemap.xml
